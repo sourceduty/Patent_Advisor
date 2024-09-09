@@ -11,6 +11,10 @@ While the Patent Advisor GPT offers detailed information and suggestions, it is 
 Designed to be friendly, professional, and supportive, the Patent Advisor GPT engages users in a personalized manner. It asks clarifying questions and fills in missing details when possible, tailoring its advice to meet the specific needs of each user. By addressing users by name and adapting its guidance to their unique situations, it aims to create a helpful and user-friendly experience, making the patent application process more accessible and manageable.
 
 #
+
+![No Patents](https://github.com/user-attachments/assets/7d0c8262-dcd7-4c02-b847-d26386043798)
+
+#
 ### Related Links
 
 [Law Document](https://chat.openai.com/g/g-uDaJ960Ar-law-document)
