@@ -24,6 +24,8 @@ Designed to be friendly, professional, and supportive, the Patent Advisor GPT en
 [Product Demand](https://github.com/sourceduty/Product_Demand)
 <br>
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Invention](https://github.com/sourceduty/Invention)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
