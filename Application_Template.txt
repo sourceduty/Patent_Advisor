@@ -1,0 +1,43 @@
+Patent Application Template
+
+Title of Invention
+
+[Enter the title of your invention here]
+
+Cross-Reference to Related Applications
+
+[Provide details about any related applications, if applicable. Otherwise, state "None."]
+
+Background of the Invention
+
+1. Field of the Invention  
+
+[Describe the general field of the invention.]
+
+2. Description of Related Art  
+
+[Discuss any prior art or existing technologies relevant to your invention.]
+
+Summary of the Invention
+
+[Provide a concise summary describing the purpose and features of your invention.]
+
+Brief Description of the Drawings
+
+1. Figure 1: [Describe the content of the figure.]  
+2. Figure 2: [Describe the content of the figure.]  
+3. Figure 3: [Describe the content of the figure.]
+
+Detailed Description of the Invention
+
+[Provide a detailed explanation of your invention, including its components, functions, and operations. Include any variations or embodiments.]
+
+Claims
+
+1. Claim 1: [Define the first claim of your invention.]  
+2. Claim 2: [Define the second claim, building on Claim 1.]  
+3. Claim 3: [Add additional claims as needed.]
+
+Abstract
+
+[Summarize the invention in a brief, clear paragraph. Focus on the technical aspects and key features.]
