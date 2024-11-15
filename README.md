@@ -16,6 +16,13 @@ Designed to be friendly, professional, and supportive, the Patent Advisor GPT en
 This custom GPT, designed to assist with patent applications and intellectual property strategies, stands in stark contrast to patent trolls who seek to exploit legal systems for profit. Unlike entities that charge fees based on the revenues of others' innovations, this Patent Advisor GPT is included with the ChatGPT subscription service, providing users with equitable, transparent, and straightforward support. It empowers inventors, entrepreneurs, and businesses by offering guidance on drafting claims, understanding filing requirements, and protecting their intellectual property—all without hidden costs or profit-sharing schemes. By promoting accessibility and knowledge, it democratizes patent assistance and helps innovators focus on creating value rather than navigating legal hurdles.
 
 #
+### Invention Trolling
+
+Invention helpers are entities or individuals who present themselves as allies to inventors but often operate as a predatory form of patent trolls. These entities target inventors, particularly those new to the patenting process, by promising to help turn ideas into profitable ventures. They typically offer services such as patent filing, prototype development, and marketing in exchange for upfront fees or a share of future profits. However, their actual value is often limited. In many cases, invention helpers exploit inventors by charging exorbitant fees for minimal or substandard services. They frequently secure patents for ideas that have little commercial viability or fail to provide meaningful support in developing or marketing products, leaving inventors financially strained and disillusioned.
+
+Beyond their questionable services, invention helpers are known for leveraging the patents they help secure as tools for profit at the expense of genuine innovation. Instead of enabling inventors to realize the commercial potential of their creations, these entities often harvest licensing fees or legal settlements by aggressively pursuing businesses or individuals who inadvertently infringe on their patents. This behavior not only stifles innovation but also creates an adversarial environment in the intellectual property ecosystem. In some cases, invention helpers even retain ownership of the patents, sidelining the original inventors from reaping the rewards of their ideas. By positioning themselves as essential intermediaries, invention helpers erode the trust inventors place in the system and perpetuate practices that prioritize personal gain over the advancement of innovation.
+
+#
 ![No Patents](https://github.com/user-attachments/assets/7d0c8262-dcd7-4c02-b847-d26386043798)
 
 #
