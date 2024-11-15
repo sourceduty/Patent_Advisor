@@ -33,6 +33,7 @@ In Europe, file with the European Patent Office (EPO) to protect your invention 
 
 Internationally, the Patent Cooperation Treaty (PCT) allows you to file a single application for up to 156 countries. The PCT secures a filing date and delays national filings for up to 30 months, providing flexibility to strategize which countries to target. Once in the national phase, ensure compliance with local office requirements and fees.
 
+```
 Checklist for All Jurisdictions:
 
 [ ] Conduct a thorough prior art search.
@@ -41,6 +42,7 @@ Checklist for All Jurisdictions:
 [ ] File your application according to jurisdictional rules.
 [ ] Monitor deadlines for examination requests, responses, and fees.
 [ ] Pay maintenance fees on time to keep your patent active.
+```
 
 Resources:
 
