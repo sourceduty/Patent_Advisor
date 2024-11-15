@@ -50,6 +50,12 @@ Resources:
 - USA: United States Patent and Trademark Office (USPTO)
 - Europe: European Patent Office (EPO)
 - International: World Intellectual Property Organization (WIPO)
+
+#
+### Patent Cooperation Treaty
+
+The Patent Cooperation Treaty (PCT) is an international agreement that simplifies the process of seeking patent protection across multiple countries. By filing a single PCT application, inventors and businesses can secure a filing date and streamline their path toward obtaining patents in any of the 156 member countries. The PCT system provides a unified framework for the initial filing and preliminary examination of patent applications, giving applicants more time to assess the commercial potential of their invention and decide in which countries to pursue protection. While the PCT does not grant an "international patent," it facilitates access to patent rights worldwide by deferring the need for national or regional filings.
+
 #
 ![No Patents](https://github.com/user-attachments/assets/7d0c8262-dcd7-4c02-b847-d26386043798)
 
